@@ -1,0 +1,53 @@
+.about-me {
+    text-align: center;
+    padding: 2%;
+    color: #464646;
+}
+.about-title {
+    font-size: 3.4rem;
+    margin-bottom: 40px;
+    margin-top: 160px;
+    font-weight: 900;
+}
+.about-subtitle {
+    font-size: 2.2rem;
+    color: #464646;
+    margin-bottom: 20px!important;
+    margin-top: 100px!important;
+    font-weight: 700;
+    padding: 0 4%;
+}
+.about-text {
+        color: #464F57;
+        padding: 0 6%;
+        line-height: 1.9;
+}
+
+.education-progress {
+    height: 20px!important;
+    width: 100%;
+}
+
+.educational-box {
+    padding: 2%;
+}
+
+.educational-title {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #464646;
+    margin-top: 40px!important;
+    margin-bottom: 20px!important;
+}
+
+.educational-text {
+    margin-top: 12px!important;
+    font-size: 1rem!important;
+    color: #464F57;
+}
+
+#about-hobbies {
+    text-align: center;
+    padding: 2%;
+}
